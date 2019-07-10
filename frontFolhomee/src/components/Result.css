@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+label{
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.scrap{
+    width: 50%;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
