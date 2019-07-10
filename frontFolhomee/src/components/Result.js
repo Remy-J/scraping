@@ -25,7 +25,7 @@ class Result extends Component {
       <div>
         <form className="container">
           <label>
-            résultat du scrapping:
+            résultat du scraping:
           </label>
           {/* je donne comme valeur par defaut au textarea le contenu de ma state scrap */}
           <textarea readOnly value={this.state.scrap} className="scrap"/>
